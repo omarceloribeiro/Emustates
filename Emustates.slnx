@@ -11,11 +11,11 @@
     <Project Path="src/Infra/Emustates.Infra.GodaddyEmail/Emustates.Infra.GodaddyEmail.csproj" Id="5865f0a8-21c6-44dd-8258-0ebf42b75b99" />
     <Project Path="src/Infra/Emustates.Infra.MagaluStorage/Emustates.Infra.MagaluStorage.csproj" Id="b4898302-eb9e-4955-854a-21a07f0d62aa" />
     <Project Path="src/Infra/Emustates.Infra.UOLMail/Emustates.Infra.UOLMail.csproj" Id="e8d38e6b-34e8-44e7-9d1c-d9ba2fdf2f7b" />
+    <Project Path="src/Presentation/Emustates.Site/Emustates.Site.Data/Emustates.Site.Data.csproj" />
+    <Project Path="src/Presentation/Emustates.Site/Emustates.Site.IdentityCore/Emustates.Site.IdentityCore.csproj" Id="06c06869-3562-4f56-b617-e6c611817255" />
   </Folder>
   <Folder Name="/Site/">
     <Project Path="src/Presentation/Emustates.Site/Emustates.Site.Client/Emustates.Site.Client.csproj" />
-    <Project Path="src/Presentation/Emustates.Site/Emustates.Site.Data/Emustates.Site.Data.csproj" />
-    <Project Path="src/Presentation/Emustates.Site/Emustates.Site.IdentityCore/Emustates.Site.IdentityCore.csproj" Id="06c06869-3562-4f56-b617-e6c611817255" />
     <Project Path="src/Presentation/Emustates.Site/Emustates.Site/Emustates.Site.csproj" />
   </Folder>
   <Project Path="AspireAppHost/AspireAppHost.csproj" Id="911bd77b-1aa1-489a-90b8-eae2d91ece7a" />
